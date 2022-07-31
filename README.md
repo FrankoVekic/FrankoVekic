@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Game-Copilot**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel**, **React** and **.NET Core**
 
 - 💬 Ask me about **Java, PHP, mySQL**
 
