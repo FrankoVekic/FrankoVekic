@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Croatia</h3>
 <img align="right" alt="image" width="400" src="https://blog.alexdevero.com/wp-content/uploads/2019/08/12-07-19-16-tips-to-become-a-better-programmer-pt1-blog.jpg">
 
-- 🔭 I’m currently working on **Game-Copilot**
+- 🔭 I’m currently working on **Gym-Application**
 
 - 🌱 I’m currently learning **Laravel**, **React** and **.NET Core**
 
