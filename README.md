@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Gym-Application**
 
-- 🌱 I’m currently learning **Laravel**, **React** and **.NET Core**
+- 🌱 I’m currently learning **Spring and Spring Boot**, also updating my knowledge in **Java**
 
 - 💬 Ask me about **Java, PHP, mySQL**
 
